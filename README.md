@@ -1,0 +1,1 @@
+# Synthetic-Prediction-Model-using-Ridge-Regression
